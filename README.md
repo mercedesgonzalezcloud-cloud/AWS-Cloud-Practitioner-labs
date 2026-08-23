@@ -37,7 +37,7 @@ Despliegue de un servidor virtual (EC2) Linux en la nube de AWS y conexión remo
 
 ## 📸 Evidencia de Conexión
 
-<img width="1225" height="371" alt="imagen conexión SSH" src="https://github.com/user-attachments/assets/9cca6d5b-c175-4bb7-b978-f5c10297f876" />
+<img width="1225" height="371" alt="imagen conexión SSH censured" src="https://github.com/user-attachments/assets/1d8d7d44-1cc1-41b2-82be-dc82c3151a26" />
 
 
 -------------------------------------------------------------------------------------------------------------------
